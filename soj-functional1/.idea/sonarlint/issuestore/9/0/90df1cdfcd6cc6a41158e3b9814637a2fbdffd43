@@ -1,0 +1,19 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ï­ïù
+W
+java:S1612"<Replace this lambda with method reference 'String::isEmpty'.(³é©Šýÿÿÿÿ
+J
+java:S16112"/Remove the parentheses around the "b" parameter(å´ÄÑùÿÿÿÿ
+D
+java:S1611>"/Remove the parentheses around the "s" parameter(¤’­c
+D
+java:S2140G")Use "java.util.Random.nextInt()" instead.(Ëª¤¹øÿÿÿÿ
+J
+java:S1611Q"/Remove the parentheses around the "i" parameter(²À›÷ûÿÿÿÿ
+D
+java:S2140Q")Use "java.util.Random.nextInt()" instead.(²À›÷ûÿÿÿÿ
+J
+java:S1611Z"/Remove the parentheses around the "x" parameter(÷ÿ™Åüÿÿÿÿ
+P
+java:S1612€"9Replace this lambda with method reference 'String::trim'.(˜’®Þ

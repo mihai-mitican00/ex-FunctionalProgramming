@@ -1,0 +1,37 @@
+
+g
+java:S1192´"KDefine a constant instead of duplicating this literal "Consumabil" 3 times.(ÖÄµ÷úÿÿÿÿ
+]
+java:S1854Z";Remove this useless assignment to local variable "numbers".(Àß¿Òùÿÿÿÿ8ÌıêÕ˜0
+N
+java:S1481Z",Remove this unused "numbers" local variable.(Àß¿Òùÿÿÿÿ8ĞıêÕ˜0
+Q	java:S125\"<This block of commented-out lines of code should be removed.(‡úÄ¡
+Q	java:S125g"<This block of commented-out lines of code should be removed.(‘Üã«
+V	java:S125k"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125u"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125y"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ÓŒ.
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(Ä°î¿
+W	java:S125‹"<This block of commented-out lines of code should be removed.(Ã¸Ì‰úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(˜ŞÆ$
+W	java:S125“"<This block of commented-out lines of code should be removed.(±‰Œüşÿÿÿÿ
+R	java:S125–"<This block of commented-out lines of code should be removed.(½ªÔÖ
+W	java:S125š"<This block of commented-out lines of code should be removed.(š£øÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(²á‚Õùÿÿÿÿ
+R	java:S125©"<This block of commented-out lines of code should be removed.(œ¨üæ
+R	java:S125«"<This block of commented-out lines of code should be removed.(Ñï×Õ
+^	java:S125¹"<This block of commented-out lines of code should be removed.(ÙˆÇ½ûÿÿÿÿ8®¬¤Ó˜0
+W	java:S125¼"<This block of commented-out lines of code should be removed.(¶†ïŠûÿÿÿÿ
+Y	java:S125À"<This block of commented-out lines of code should be removed.(äÇşÄ8ê­®Ó˜0
+^	java:S125Ä"<This block of commented-out lines of code should be removed.(Ÿµ·°üÿÿÿÿ8¬¤°Ó˜0
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(¬Üó›ıÿÿÿÿ
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8Ï‘ìÕ˜0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ï‘ìÕ˜0
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8˜†ïÕ˜0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Ï‘ìÕ˜0

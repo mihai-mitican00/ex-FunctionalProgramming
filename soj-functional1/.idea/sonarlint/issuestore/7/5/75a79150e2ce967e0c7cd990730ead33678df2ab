@@ -1,0 +1,27 @@
+
+V
+java:S1854W";Remove this useless assignment to local variable "numbers".(Àß¿Òùÿÿÿÿ
+G
+java:S1481W",Remove this unused "numbers" local variable.(Àß¿Òùÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(‘Üã«
+V	java:S125_"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125e"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125o"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+V	java:S125s"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ
+P	java:S125u"<This block of commented-out lines of code should be removed.(ÓŒ.
+Q	java:S125~"<This block of commented-out lines of code should be removed.(Ä°î¿
+W	java:S125"<This block of commented-out lines of code should be removed.(Ã¸Ì‰úÿÿÿÿ
+Q	java:S125…"<This block of commented-out lines of code should be removed.(˜ŞÆ$
+W	java:S125‰"<This block of commented-out lines of code should be removed.(±‰Œüşÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(½ªÔÖ
+W	java:S125"<This block of commented-out lines of code should be removed.(š£øÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(·íÕÄüÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(²á‚Õùÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(Ñï×Õ
+W	java:S125­"<This block of commented-out lines of code should be removed.(ö±ùˆÿÿÿÿÿ
+R	java:S125±"<This block of commented-out lines of code should be removed.(äÇşÄ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(Ÿµ·°üÿÿÿÿ
+W	java:S125¸"<This block of commented-out lines of code should be removed.(¬Üó›ıÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
